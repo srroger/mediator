@@ -4,14 +4,25 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+![Ma tête](/assets/images/tete.jpg)
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+Je m'appelle Roger Srey, devéloppeur logiciel spécialisé dans le traitement d'images et dans le développement web.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hmmmm, voici une présentation des plus communes dans le monde d'aujourd'hui mais cela ne résume pas exactement qui je suis ni pourquoi vous êtes sur ce site.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Dans ce blog, vous trouverez pas mal d'articles sur des sujets tellement variés que le meilleur hashtag à y mettre serai: misc.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Le maître mot de ce blog: la découverte !
+
+Vous allez naviguer dans un océan fait de courants artistiques, sociologiques, scientifiques et même un peu vulgaire.
+Mais la voile est solide et le vent est fort.
+
+Sinon pour plus détails sur ma petit personne ; moi être narcissique mouahahaha ; [Qui suis-je ?]({% post_url 2019-01-11-Bienvenue_chez_moi %})
+
+Bonne visite !
+
+### Détails inutils:
+
+Ce blog a été fait sur Jekyll [jekyllrb.com](http://jekyllrb.com/).
+
+Et non je ne vais pas vous lister la liste des langages que j'utilise parce que je n'ai trouvé cela très pertinent. Et puis, ici l'objectif n'est pas de me vendre.
