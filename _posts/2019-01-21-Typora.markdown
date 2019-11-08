@@ -1,0 +1,71 @@
+---
+layout: post
+title:  "Typora, c'est la joie"
+date:   2019-01-21 12:46:42
+categories: post
+tags: post programming web
+image: /assets/article_images/2019-01-17-Typora/blur-close-up-design-196645.jpg
+image2: /assets/article_images/2019-01-17-Typora/blur-close-up-design-196645.jpg
+---
+# Typora : l'éditeur pour Markdown
+
+*Ha putain, c'est trop bon ! C'est jolie, c'est simple et il y a une correction orthographique. Que demande le peuple ?* 
+
+Bonjour à tous !
+
+Aujourd'hui, un petit post rapide.
+
+Alors, je voulais vous parler d'un outil très utile et vachement bien fait.
+Son nom : **Typora**.
+
+Typora est un éditeur de texte pour fichier Markdown. Site officiel: [Typora](typora.io), vous pouvez les suivre sur leur petit [twitter](https://twitter.com/Typora) et la communauté semble plus ou moins active.
+
+Actuellement, en janvier 2019, ils sont en version bêta. Durant cette phase, ce logiciel est gratuit donc profitez-en. Typora, c'est très utile pour ceux qui font du Git ou encore ceux qui développent leurs petits sites web en statique.
+
+Je ne vais pas argumenter ici très longtemps sur l'utilité de faire des sites web statiques. Mais les principaux avantages sont : la légèreté et la sécurité.
+
+Bref, c'est un outil que j'ai découvert récemment. Fonctionnel, je l'aime bien.
+
+# Pourquoi tu nous parles de ça ?
+
+Très bonne question, toi, derrière ton écran.
+
+Hé bien tout simplement parce que ce petit blog  ([blog.srroger.com](blog.srroger.com)) est développé via [Jekyll](https://jekyllrb.com). 
+
+C'est un outil qui permet de générer des sites statiques à partir de... je vous le donne en mille... de fichiers Markdown.
+
+Alors pour ceux du fond qui n'y connaisse rien. Un fichier Markdown, c'est vulgairement un fichier texte avec des balises particulières très légères. 
+
+
+
+Il a été créé en 2004 par John Gruber:  ![Gruber](https://upload.wikimedia.org/wikipedia/en/a/ae/John_Gruber.jpeg) 
+
+Voici un petit exemple:
+
+![Exemple](/assets/article_images/2019-01-17-Typora/ex_md.png)
+
+Il est généralement utilisé pour sortir des html, des pdf et on trouve constamment des fichiers .md pour décrire des projets dans Github. Bref, on l'utilise un peu partout et il faut donc pouvoir les manipuler rapidement et simplement. C'est la qu'entre en jeu Typora.
+
+# Les qualités de Typora
+
+Passons dans le vif du sujet, ses qualités:
+
+- Rapide
+- Ergonomique
+- Aperçu du résultat immédiat
+
+Ce que je trouve le plus agréable, c'est que vous travaillez directement sur votre page "résultat". Donc, on ne voit pas les balises à l'endroit où on écrit. En plus, il y a des raccourcis pour rajouter les balises, donc pas la peine de les retenir par cœur. Le tout couplet avec une correction orthographique.
+
+La prise en main est super rapide !  Pas la peine de lire une documentation, tout se comprend instantanément.
+
+C'est simple, basique, léger et complet. Pour moi, il possède toutes les qualités requises pour travailler agréablement.
+
+# Finalement, c'est plutôt cool
+
+Le maître mot de la fin : "Typora, c'est comme avoir un économe dans sa cuisine. On peut s'en passer, mais bordel, ça facilite la vie.''
+
+Si vous voulez plus d'information sur Typora, il y a leur site officiel [typora.io](typora.io).
+
+Merci de votre attention !
+
+À la prochaine !

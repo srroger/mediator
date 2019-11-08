@@ -26,6 +26,8 @@ paginate:	5
 url: "http://blog.srroger.com" # the base hostname & protocol for your site
 baseurl: ""
 
+timezone: Europe/Paris
+
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
 
